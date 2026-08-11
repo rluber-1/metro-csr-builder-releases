@@ -1,8 +1,8 @@
 ﻿{
     "version":  "0.2.1",
-    "published":  "2026-08-11T17:35:58.5427311Z",
+    "published":  "2026-08-11T17:46:16.2545207Z",
     "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v0.2.1/Metro.CSR.Builder.Setup.0.2.1.exe",
-    "sha256":  "e7d69ef0b6435aea110ae9e4a809073cec13de53e423757a518e85cf0678b72e",
+    "sha256":  "d737f33e3f0ae3a23e2479dbe9fd1083166dfe8b00b67adb87c849db718e24c5",
     "release_notes":  "Updated report rendering and template formatting, improved Preview/Word/PDF consistency, added optional technician closing and signature support, and added automatic application update infrastructure.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
