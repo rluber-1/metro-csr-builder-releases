@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.2",
-    "published":  "2026-08-11T21:05:34.2161378Z",
-    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.2/Metro.CSR.Builder.Setup.2.2.2.exe",
-    "sha256":  "316fdaf50b8b6cb7d2acf27ff24c93c1f3d9d623fecf06269e4b57622a679d48",
-    "release_notes":  "Version 2.2.2 adds a missing Report Details completeness prompt before Preview, Export, and Print; an option to remove empty report sections consistently from customer output; protected Administration and template management; cleaner technician Help and Export pages; actual-PDF Preview behavior; and UI polish and security improvements.",
+    "version":  "2.2.3",
+    "published":  "2026-08-11T23:45:29.5768183Z",
+    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.3/Metro.CSR.Builder.Setup.2.2.3.exe",
+    "sha256":  "faaf9f50fe733fa2b4e54141cde2ea4b7a8343a8f85b98efa4b2ffb9b1312e36",
+    "release_notes":  "Version 2.2.3 completes the customer report workflow with actual-PDF Preview, clearer technician Help and Export pages, consistent empty-section handling, and visual and security improvements.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
     "allow_downgrade":  false
