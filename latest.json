@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.5",
-    "published":  "2026-08-12T15:50:25.3035053Z",
-    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.5/Metro.CSR.Builder.Setup.2.2.5.exe",
-    "sha256":  "5b8cb1930e1801410905a1cb76e83435a938e25955dd149b6e0cb10297967d20",
-    "release_notes":  "Version 2.2.5 improves handling of missing Customer Information, replaces Work Order # with Hours Worked, improves PDF photo layout and image-name/caption alignment, corrects report closing and signature formatting, improves local spell checking and correction tools, restores reliable editing and resaving of existing CSR files, and adds drag-and-drop and clipboard photo import.",
+    "version":  "2.2.6",
+    "published":  "2026-08-12T16:00:16.2209051Z",
+    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.6/Metro.CSR.Builder.Setup.2.2.6.exe",
+    "sha256":  "6f3ca673ed626b6acc42513ae7447698158c3a6af9cd8f8fdc723039c0b82db8",
+    "release_notes":  "Version 2.2.6 fixes application startup after updating by packaging the local U.S. English spell-check dictionary as an application-owned resource.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
     "allow_downgrade":  false
