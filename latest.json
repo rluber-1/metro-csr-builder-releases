@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.4",
-    "published":  "2026-08-11T23:57:28.8390985Z",
-    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.4/Metro.CSR.Builder.Setup.2.2.4.exe",
-    "sha256":  "f31312b0edcfb86d981b115cd87ac5108789e0bf3e9d8b3eb0952df614bcda09",
-    "release_notes":  "Version 2.2.4 removes corrupted punctuation from the missing-information and Administration interfaces and keeps the complete report closing/signature block together across page boundaries in PDF, Preview, Print, and Word output.",
+    "version":  "2.2.5",
+    "published":  "2026-08-12T15:43:48.5671889Z",
+    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.5/Metro.CSR.Builder.Setup.2.2.5.exe",
+    "sha256":  "a71c259c73cc58ee4397f50b4131bdf70f85fe7f8ce19202bd592f2882d659b9",
+    "release_notes":  "Version 2.2.5 improves handling of missing Customer Information, replaces Work Order # with Hours Worked, improves PDF photo layout and image-name/caption alignment, corrects report closing and signature formatting, improves local spell checking and correction tools, restores reliable editing and resaving of existing CSR files, and adds drag-and-drop and clipboard photo import.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
     "allow_downgrade":  false
