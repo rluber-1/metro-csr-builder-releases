@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.7",
-    "published":  "2026-08-12T17:13:14.4356353Z",
-    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.7/Metro.CSR.Builder.Setup.2.2.7.exe",
-    "sha256":  "2d253a7b7d7a59f0f6eedd4ed80c93db9b5e792154b682d66fce70425ddb0428",
-    "release_notes":  "Version 2.2.7 fixes the elevated installer\u0027s post-install launch error. Metro CSR Builder continues to run normally without administrator elevation from its Start menu or desktop shortcut.",
+    "version":  "2.3.0",
+    "published":  "2026-08-12T18:23:51.6088832Z",
+    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.3.0/Metro.CSR.Builder.Setup.2.3.0.exe",
+    "sha256":  "c6511f54f57bc00085572f81391a82d7d52c17641e9677c1cc11aa619c271651",
+    "release_notes":  "Version 2.3.0 adds Save As and Duplicate Report, contextual Help with permanent version history, autosave and crash-recovery refinements, keyboard shortcuts, non-destructive photo annotations and cropping, standardized export filenames, remembered export locations, a live photo counter, and a professional Metro-branded startup animation.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
     "allow_downgrade":  false
