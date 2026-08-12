@@ -1,8 +1,8 @@
 {
     "version":  "2.2.5",
-    "published":  "2026-08-12T15:43:48.5671889Z",
+    "published":  "2026-08-12T15:50:25.3035053Z",
     "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.5/Metro.CSR.Builder.Setup.2.2.5.exe",
-    "sha256":  "a71c259c73cc58ee4397f50b4131bdf70f85fe7f8ce19202bd592f2882d659b9",
+    "sha256":  "5b8cb1930e1801410905a1cb76e83435a938e25955dd149b6e0cb10297967d20",
     "release_notes":  "Version 2.2.5 improves handling of missing Customer Information, replaces Work Order # with Hours Worked, improves PDF photo layout and image-name/caption alignment, corrects report closing and signature formatting, improves local spell checking and correction tools, restores reliable editing and resaving of existing CSR files, and adds drag-and-drop and clipboard photo import.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
