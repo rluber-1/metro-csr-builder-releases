@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.6",
-    "published":  "2026-08-12T16:00:16.2209051Z",
-    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.6/Metro.CSR.Builder.Setup.2.2.6.exe",
-    "sha256":  "6f3ca673ed626b6acc42513ae7447698158c3a6af9cd8f8fdc723039c0b82db8",
-    "release_notes":  "Version 2.2.6 fixes application startup after updating by packaging the local U.S. English spell-check dictionary as an application-owned resource.",
+    "version":  "2.2.7",
+    "published":  "2026-08-12T17:13:14.4356353Z",
+    "download_url":  "https://github.com/rluber-1/metro-csr-builder-releases/releases/download/v2.2.7/Metro.CSR.Builder.Setup.2.2.7.exe",
+    "sha256":  "2d253a7b7d7a59f0f6eedd4ed80c93db9b5e792154b682d66fce70425ddb0428",
+    "release_notes":  "Version 2.2.7 fixes the elevated installer\u0027s post-install launch error. Metro CSR Builder continues to run normally without administrator elevation from its Start menu or desktop shortcut.",
     "minimum_supported_version":  "0.2.0",
     "mandatory":  false,
     "allow_downgrade":  false
